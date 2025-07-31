@@ -2,10 +2,11 @@
 
 ## 🚀 About Me
 
-- 🎓 MCA Student at NIT Agartala (CGPA: 8.98/10)
-- 💼 Software Engineer Intern at Cloud Play Solutions
-- 👥 Team Lead with experience mentoring React/Next.js teams
-- 🏆 450+ DSA problems solved | LeetCode Rating: 1529 | AIR 599 NIMCET'2023
+- 🎓 MCA Student at NIT Agartala
+- 🚀 Actively looking for internship and full-time job opportunities
+- 🌱 I’m currently learning web development to expand my skillset
+- 🏆 450+ DSA problems solved | LeetCode Rating: 1534
+- 🔗leetcode: https://leetcode.com/u/ritesh_05/
 
 
 ## 🚀 Featured Projects
